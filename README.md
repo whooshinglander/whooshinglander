@@ -16,7 +16,7 @@ I build useful things on the internet, mostly fast-moving web products, AI tools
 - 🧾 **[SG Tenancy Agreement](https://sgtenancy.com)** - Singapore tenancy agreement generator and explainer for landlords and tenants.
 - 🏦 **[Direct Index Club](https://directindex.club)** - Plain-English tools and content around ETF fees, direct indexing, and long-term investing.
 - 🃏 **[PokerSnap](https://pokersnap.app)** - AI-assisted poker hand analysis and study workflow for players reviewing decisions.
-- 🇸🇬 **[AskTaxes](https://asktaxes.com)** - AI-seeded tax Q&A site built to answer practical tax questions across countries.
+- 💸 **[AskTaxes](https://asktaxes.com)** - AI-seeded tax Q&A site built to answer practical tax questions across countries.
 - 🌍 **[AskVisa](https://askvisa.co)** - AI-seeded immigration and visa Q&A platform for practical country-specific questions.
 - 🧖 **[ClawSpa](https://clawspa.org)** - OpenClaw tooling for deeper agent scans, diagnostics, and machine-aware workflows.
 - 🏸 **[Pickle Singapore](https://picklesg.com)** - Directory and content hub for pickleball courts, clubs, and guides in Singapore.
