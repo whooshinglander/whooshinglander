@@ -38,5 +38,4 @@ I build useful things on the internet, mostly fast-moving web products, AI tools
 
 - GitHub: **[@whooshinglander](https://github.com/whooshinglander)**
 - Buy Me a Coffee: **[buymeacoffee.com/WhooshingLander](https://buymeacoffee.com/WhooshingLander)**
-- Portfolio: **[whooshinglander-portfolio.vercel.app](https://whooshinglander-portfolio.vercel.app)**
 - Substack: **[@whooshinglander](https://substack.com/@whooshinglander)**
