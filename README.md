@@ -36,6 +36,7 @@ I build useful things on the internet, mostly fast-moving web products, AI tools
 
 ## Connect
 
+- Email: **[whooshinglander@gmail.com](mailto:whooshinglander@gmail.com)**
 - GitHub: **[@whooshinglander](https://github.com/whooshinglander)**
 - Buy Me a Coffee: **[buymeacoffee.com/WhooshingLander](https://buymeacoffee.com/WhooshingLander)**
 - Substack: **[@whooshinglander](https://substack.com/@whooshinglander)**
