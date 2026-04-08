@@ -24,6 +24,7 @@ I build useful things on the internet, mostly fast-moving web products, AI tools
 - 🌆 **[Pickle KL](https://picklekualalumpur.com)** - Directory and content hub for pickleball in Kuala Lumpur.
 - 🎾 **[Padel Singapore](https://padelsingapore.com)** - Directory and content hub for padel courts, clubs, and guides in Singapore.
 - 🌴 **[Padel Johor](https://padeljohor.com)** - Directory and content hub for padel in Johor, Malaysia.
+- 🎧 **Vibe Coding Lofi** - New tracked project idea, name captured for a future build around coding vibes, focus, and product experimentation.
 
 ## ClawHub Skills
 
